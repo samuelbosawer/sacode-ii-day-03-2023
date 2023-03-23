@@ -1,0 +1,26 @@
+body{
+    background-color: #7AA874;
+}
+div{
+    background-color: darkslateblue;
+    padding:10px;
+}
+h2, p {
+    color:#F7DB6A;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.satu{
+    background-color: #7AA874;
+    padding: 10%;
+}
+#dua{
+    background-color:  darkslateblue;
+    width: 50%;
+}
+.satu p {
+    color:black
+}
+.satu h2{
+    color: black;
+}
